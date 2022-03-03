@@ -15,4 +15,4 @@ Cleaned data set: https://drive.google.com/file/d/1CNOyfpQhl6fEjQrtSW1VQxkAAbR4y
 ## Result
 
 - listing price is primarily correlated with **the number of tenants that can be accommodates at the property** 
-- review rating score is correlated with **the host's credibility** (license, verified identity, time of being a host) was critical in review rating score
+- review rating score is correlated with **the host's credibility** (license, verified identity, time of being a host)
